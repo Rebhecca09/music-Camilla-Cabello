@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}header{
+    background-color: rgb(47, 22, 71) ;
+    text-align: center;
+    color: white;
+
+}.desi{
+    background-image:url("voo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50vh;
+    width: 100vw;
+    color: white;
+    font-family: ;
+}
